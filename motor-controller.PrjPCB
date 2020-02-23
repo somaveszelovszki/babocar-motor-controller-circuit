@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HPGDRJVC
 
 [Document3]
-DocumentPath=Soma.PcbDoc
+DocumentPath=motor-controller.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GVMPEXMY
 
 [Document4]
-DocumentPath=Soma.OutJob
+DocumentPath=motor-controller.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,63 +106,63 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Soma\Design Rule Check - Soma.html
+DocumentPath=Project Outputs for motor-controller\Design Rule Check - motor-controller.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Soma\Soma-RoundHoles.TXT
+DocumentPath=Project Outputs for motor-controller\motor-controller-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Soma\Soma-SquareHoles.TXT
+DocumentPath=Project Outputs for motor-controller\motor-controller-SquareHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Soma\Soma.DRR
+DocumentPath=Project Outputs for motor-controller\motor-controller.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Soma\Soma.EXTREP
+DocumentPath=Project Outputs for motor-controller\motor-controller.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Soma\Soma.GBL
+DocumentPath=Project Outputs for motor-controller\motor-controller.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Soma\Soma.GBO
+DocumentPath=Project Outputs for motor-controller\motor-controller.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Soma\Soma.GBS
+DocumentPath=Project Outputs for motor-controller\motor-controller.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Soma\Soma.GM13
+DocumentPath=Project Outputs for motor-controller\motor-controller.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Soma\Soma.GTL
+DocumentPath=Project Outputs for motor-controller\motor-controller.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Soma\Soma.GTO
+DocumentPath=Project Outputs for motor-controller\motor-controller.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Soma\Soma.GTS
+DocumentPath=Project Outputs for motor-controller\motor-controller.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Soma\Soma.LDP
+DocumentPath=Project Outputs for motor-controller\motor-controller.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Soma\Soma.REP
+DocumentPath=Project Outputs for motor-controller\motor-controller.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Soma\Soma.RUL
+DocumentPath=Project Outputs for motor-controller\motor-controller.RUL
 DItemRevisionGUID=
 
 [Configuration1]
